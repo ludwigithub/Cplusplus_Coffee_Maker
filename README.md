@@ -1,10 +1,10 @@
 # Cplusplus
-Overview
+Overview:
 Tweaking the words of Benjamin Franklin, an ounce of preparation is worth a pound of cure. Syntax and the concepts of programming languages are the structure of your coding projects. However, planning how to use those concepts to make your program work is critical to building a solid foundation.
 
 In this activity, you will be tasked with creating pseudocode and a flowchart for the operation of an electric coffee maker with specific features. Then you will write a reflection paper explaining which tool you prefer and why.
 
-Prompt
+Prompt:
 Your objective is to plan the program flow and logic for an electric coffee maker with the following features:
 
 A clock displaying the current time. To set the time, simply press the ON button twice, then read the hour and minute from the user. When ON is pressed one more time, the time is set.
@@ -17,7 +17,7 @@ An automatic sensor that detects whether all the water has been used. Once the w
 A heating sensor that keeps the coffee at a fixed temperature as long as the button is set to ON or PROGRAM
 The machine’s operation can be described as follows. First, the user adds coffee and water to the machine. If the user presses the ON button, the system begins boiling the water and then mixing it with coffee. The mix goes through the filter into the glass container. If the OFF button is pressed, the machine shuts down and the current time is displayed. If the PROGRAM button is pressed, the machine goes into sleep mode until the preset time is reached. Once it’s reached, the machine “wakes up” and makes coffee.
 
-Directions
+Directions:
 Remember that pseudocode and flowcharts should express ideas and concepts in English. They are intended to be read by human beings, not compilers. There are several free options you can use to create your flowchart, such as Draw.io, Lucidchart, or Creately. Make sure to use a tool designed for creating flowcharts to ensure that you are using the appropriate symbols and shapes.
 
 Consider the high-level architecture of your program and break it into categories like logic, user interaction, etc. Then think about how you might implement each category. Be sure that your solution takes into account all features and requirements.
